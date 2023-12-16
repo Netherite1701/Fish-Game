@@ -5,6 +5,8 @@
 [Godot](https://godotengine.org/) game engine, created as a demonstration of
 [Nakama](https://heroiclabs.com/), an open-source scalable game server.
 
+**Updated to Godot 4.2**
+
 ![Animated GIF showing gameplay](assets/screenshots/gameplay.gif)
 
 You can download playable builds for Windows, Linux and MacOS from the
